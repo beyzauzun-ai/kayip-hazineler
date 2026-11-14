@@ -1,5 +1,7 @@
 # Kayıp Hazineler: Son 120 Saniye
 
+🇹🇷 **Türkçe** | 🇬🇧 [English](README_EN.md)
+
 ![Kayıp Hazineler: Son 120 Saniye – 3D Korsan Macerası kapak görseli](docs/images/kayip-hazineler-kapak.png)
 
 <sub>Kapak görseli projeye ait bir tanıtım görselidir ve yapay zekâ ile üretilmiştir; oyun içi ekran görüntüsü değildir.</sub>
