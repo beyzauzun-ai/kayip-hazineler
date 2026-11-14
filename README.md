@@ -1,5 +1,9 @@
 # Kayıp Hazineler: Son 120 Saniye
 
+![Kayıp Hazineler: Son 120 Saniye – 3D Korsan Macerası kapak görseli](docs/images/kayip-hazineler-kapak.png)
+
+<sub>Kapak görseli projeye ait bir tanıtım görselidir ve yapay zekâ ile üretilmiştir; oyun içi ekran görüntüsü değildir.</sub>
+
 Masalsı, renkli bir korsan dünyasında geçen kısa bir hazine avı oyunu. Gemini sür,
 üç batıktaki eserleri 120 saniye dolmadan çıkar, limana dön ve eserleri açık
 artırmada sat. Kazandığın altına göre korsan rütbeni öğren!
@@ -63,6 +67,7 @@ artırmada sat. Kazandığın altına göre korsan rütbeni öğren!
 | `tests/` | Otomatik testler (`tests/README.md`) |
 | `tools/` | Seslerin üretim betikleri |
 | `ASAMALAR.md` | Geliştirme aşamaları ve test kayıtları |
+| `docs/images/` | README görselleri (kapak görseli) |
 
 ## Testler
 
@@ -97,6 +102,7 @@ Bu depodaki dosyalar farklı lisanslara tabidir:
 | `assets/fonts/Fredoka-Variable.ttf` — Fredoka, The Fredoka Project Authors (oyunda kullanılmıyor) | [SIL Open Font License 1.1](assets/fonts/OFL.txt) |
 | `assets/audio/amb_waves_beach.wav` — "Gentle Waves – Quiet Beach", amholma ([Freesound](https://freesound.org/people/amholma/sounds/376795/)), düzenlenmiş bölüm | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
 | Diğer tüm sesler ve müzikler (`assets/audio/`) ile `icon.svg` — bu proje için üretildi | © 2026 Beyza Uzun, tüm hakları saklıdır (MIT lisansı kapsamında değildir) |
+| `docs/images/kayip-hazineler-kapak.png` — projeye ait tanıtım görseli, yapay zekâ ile üretildi | MIT lisansı kapsamında değildir; kullanım için izin alınmalıdır |
 
 Ses kaynaklarının ayrıntıları `assets/audio/KAYNAKLAR.md` dosyasındadır. Tasarım
 sürecinde yapay zekâ ile üretilmiş referans görseller kullanıldı; bu görseller
