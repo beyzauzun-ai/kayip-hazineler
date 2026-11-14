@@ -102,7 +102,7 @@ Bu depodaki dosyalar farklı lisanslara tabidir:
 | Kaynak kod: GDScript, sahne ve ayar dosyaları, gölgelendiriciler, testler, `tools/` betikleri | [MIT Lisansı](LICENSE) © 2026 Beyza Uzun |
 | `assets/fonts/Baloo2-Variable.ttf` — Baloo 2, The Baloo 2 Project Authors | [SIL Open Font License 1.1](assets/fonts/Baloo2-OFL.txt) |
 | `assets/fonts/Fredoka-Variable.ttf` — Fredoka, The Fredoka Project Authors (oyunda kullanılmıyor) | [SIL Open Font License 1.1](assets/fonts/OFL.txt) |
-| `assets/audio/amb_waves_beach.wav` — "Gentle Waves – Quiet Beach", amholma ([Freesound](https://freesound.org/people/amholma/sounds/376795/)), düzenlenmiş bölüm | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `assets/audio/amb_waves_beach.wav` — "Gentle Waves - Quiet Beach", Freesound kullanıcısı amholma ([Freesound](https://freesound.org/people/amholma/sounds/376795/)), düzenlenmiş bölüm | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — atıf zorunlu değildir; kaynak, şeffaflık amacıyla ve yükleyenin ricası üzerine belirtilmiştir |
 | Diğer tüm sesler ve müzikler (`assets/audio/`) ile `icon.svg` — bu proje için üretildi | © 2026 Beyza Uzun, tüm hakları saklıdır (MIT lisansı kapsamında değildir) |
 | `docs/images/kayip-hazineler-kapak.png` — projeye ait tanıtım görseli, yapay zekâ ile üretildi | MIT lisansı kapsamında değildir; kullanım için izin alınmalıdır |
 

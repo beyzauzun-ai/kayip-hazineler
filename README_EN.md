@@ -104,7 +104,7 @@ The files in this repository are covered by different licenses:
 | Source code: GDScript, scene and configuration files, shaders, tests, `tools/` scripts | [MIT License](LICENSE) © 2026 Beyza Uzun |
 | `assets/fonts/Baloo2-Variable.ttf` — Baloo 2, The Baloo 2 Project Authors | [SIL Open Font License 1.1](assets/fonts/Baloo2-OFL.txt) |
 | `assets/fonts/Fredoka-Variable.ttf` — Fredoka, The Fredoka Project Authors (not used in the game) | [SIL Open Font License 1.1](assets/fonts/OFL.txt) |
-| `assets/audio/amb_waves_beach.wav` — "Gentle Waves – Quiet Beach" by amholma ([Freesound](https://freesound.org/people/amholma/sounds/376795/)), edited excerpt | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) |
+| `assets/audio/amb_waves_beach.wav` — "Gentle Waves - Quiet Beach" by Freesound user amholma ([Freesound](https://freesound.org/people/amholma/sounds/376795/)), edited excerpt | [CC0 1.0](https://creativecommons.org/publicdomain/zero/1.0/) — attribution is not required; the source is credited for transparency and at the uploader's request |
 | All other sounds and music (`assets/audio/`) and `icon.svg` — created for this project | © 2026 Beyza Uzun, all rights reserved (not covered by the MIT License) |
 | `docs/images/kayip-hazineler-kapak.png` — promotional image for this project, created with artificial intelligence | Not covered by the MIT License; permission is required for use |
 

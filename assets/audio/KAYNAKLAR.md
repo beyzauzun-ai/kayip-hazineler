@@ -9,12 +9,12 @@ hazırlanmıştır (ayrıntılar aşağıda). Lisansı belirsiz ses yoktur.
 
 ## Üçüncü taraf kayıt: deniz dalgası (`amb_waves_beach.wav`)
 
-- Ses: **Gentle Waves – Quiet Beach**
-- Yazar: **amholma (Andrew Holman)**
+- Ses: **Gentle Waves - Quiet Beach**
+- Yükleyen: **amholma** (Freesound kullanıcı adı)
 - Kaynak: https://freesound.org/people/amholma/sounds/376795/
-- Lisans: **Creative Commons 0 (CC0 1.0)** — http://creativecommons.org/publicdomain/zero/1.0/
-  (lisans 2026-11-03 ve 2026-11-04'te ses sayfasından doğrulandı)
-- Kayıt yeri: Destin, Florida (yazarın açıklamasından); yükleme tarihi: 15 Ocak 2017
+- Lisans: **Creative Commons 0 (CC0 1.0)** — https://creativecommons.org/publicdomain/zero/1.0/
+  (lisans 2026-11-03, 2026-11-04 ve 2026-11-14'te ses sayfasından doğrulandı)
+- Kayıt yeri: Destin, Florida (ses sayfasındaki açıklamadan); yükleme tarihi: 15 Ocak 2017
 - Orijinal dosya: `376795__amholma__gentle-waves-quiet-beach.wav` — 48 kHz, 24 bit,
   stereo, 1:40,7 (SHA256 `4D48AC0A2B039F77858CA15AF2D9A57EB1921BCBAD1F10ADA445FCD5497E1124`).
   Orijinal dosya projeye eklenmemiştir.
@@ -27,8 +27,12 @@ hazırlanmıştır (ayrıntılar aşağıda). Lisansı belirsiz ses yoktur.
     ortalama seviye ~−30 dBFS, tepe ~−8 dBFS.
   - Yumuşak döngü geçişi: sondaki 3 sn başa eşit güçle bindirildi (kesintisiz döngü).
 - Sonuç dosyası: `amb_waves_beach.wav` — 45 sn, 48 kHz, 16 bit, stereo.
-- CC0 atıf zorunluluğu getirmez; yazar nezaketen atıf rica ettiği için adı burada
-  belirtilmiştir.
+- CC0 atıf zorunluluğu getirmez; yükleyen ses sayfasında atıf rica ettiği için ve
+  şeffaflık amacıyla kaynak burada belirtilmiştir.
+
+## Projeye özgü sesler (kodla üretilen)
+
+Aşağıdaki bilgiler deniz dalgası dışındaki tüm sesler ve müzikler içindir.
 
 Önceki sentetik dalga sesi `amb_waves.wav` artık oyunda çalınmaz; dosya silinmeden
 korunmaktadır.
@@ -44,8 +48,10 @@ korunmaktadır.
 - Her ses sabit bir tohumla (9101–9215) üretilir; script tekrar çalıştırıldığında
   aynı dosyalar oluşur.
 - Format: WAV, mono, 16 bit. Müzik ve döngüler 32 kHz, efektler 44,1 kHz.
-- Hak sahibi: Kayıp Hazineler projesi. Sesler bu projede serbestçe kullanılabilir,
-  değiştirilebilir ve dağıtılabilir.
+- Hak sahibi: © 2026 Beyza Uzun, tüm hakları saklıdır. Bu sesler ve müzikler MIT
+  lisansı kapsamında değildir.
+- Bu sesleri üreten `tools/` altındaki Python betikleri kaynak koddur ve deponun
+  MIT lisansı kapsamındadır (bkz. `LICENSE`).
 
 ## Dosyalar
 
