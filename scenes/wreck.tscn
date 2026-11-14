@@ -1,0 +1,6 @@
+[gd_scene format=3]
+
+[ext_resource type="Script" path="res://scripts/wreck/wreck.gd" id="1_wreck"]
+
+[node name="Batik" type="Node3D" groups=["wrecks"]]
+script = ExtResource("1_wreck")

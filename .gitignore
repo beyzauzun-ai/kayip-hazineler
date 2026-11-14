@@ -1,0 +1,22 @@
+# Godot 4 önbelleği ve yalnızca bu bilgisayara özel ayarlar
+.godot/
+/android/
+override.cfg
+
+# Dışa aktarılan oyun, yedekler ve videolar
+/export/
+/build/
+*.exe
+*.pck
+*.zip
+*.avi
+*.mp4
+
+# Depoya alınmayan referans görseller (yapay zekâ ile üretilmiş tasarım referansları)
+/reference/
+
+# İşletim sistemi ve geçici dosyalar
+Thumbs.db
+desktop.ini
+.DS_Store
+*.tmp

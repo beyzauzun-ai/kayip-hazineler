@@ -1,0 +1,8 @@
+# Metin dosyalarında satır sonları depoda LF olarak tutulur (Godot önerisi).
+* text=auto eol=lf
+
+# İkili dosyalar
+*.wav binary
+*.ttf binary
+*.webp binary
+*.png binary
